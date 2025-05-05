@@ -21,7 +21,7 @@ body{
   margin: 0;
   font-family: 'DM Sans', sans-serif;
   background-color: var(--cream);
-  min-height: 100vh;
+  min-height: 100svh;
   letter-spacing: .75px;
   display: flex;
   justify-content: center;
